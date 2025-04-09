@@ -1,10 +1,10 @@
-###Fabio o. s. Diniz Junior
+### Fabio o. s. Diniz Junior
 
 # Semaforo com Botão
 Um projeto simples desenvolvido no Thinkercad que compõe uma placa com componentes simulando um Semáforo que as luzes acendem conforme o botão é acionado
 
   ![Modelagem](Semafaro/Semafaro.png)
-![Code](Semafaro/Code.png)
+![Code](Codigo Semaforo Botao Fabio Diniz JR.png)
 
 ## Componentes necessarios
 ``1 Arduino Uno``  
