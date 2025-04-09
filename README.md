@@ -3,8 +3,8 @@
 # Semaforo com Botão
 Um projeto simples desenvolvido no Thinkercad que compõe uma placa com componentes simulando um Semáforo que as luzes acendem conforme o botão é acionado
 
-  ![Modelagem](Fotos Semaforo/Semaforo Botao.png)
-![Code](Fotos Semaforo/Codigo Semaforo Botao.png)
+![Modelagem](Fotos_Semaforo/Semaforo Botao.png)  
+![Code](Fotos_Semaforo/Codigo Semaforo Botao.png)
 
 ## Componentes necessarios
 ``1 Arduino Uno``  
